@@ -2,7 +2,8 @@
 
 
 RemoteSystemsTempFiles
-/.classpath/
+.classpath
+.project
 *.class
 /bin/
 /target/
