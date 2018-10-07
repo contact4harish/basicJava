@@ -1,16 +1,15 @@
 #for java
 
 
-
-*.temp
+RemoteSystemsTempFiles
+.classpath
+.project
 *.class
-/.project
-/.classpath
 /bin/
 /target/
 /test-output/
-/.git/
 /./
 /../
 /.settings/
-/basicJava/
+
+
